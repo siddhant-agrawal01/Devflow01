@@ -98,4 +98,5 @@ If you have any questions or feedback, please feel free to contact us at [sidana
 
 ---
 you can test live on https://job-trail-seven.vercel.app/
+---
 Thank you for using Job Trail! Happy job hunting!
